@@ -1,0 +1,14 @@
+body {
+	background: url("images/xeSe9SK.gif") repeat left top;
+}
+
+h1 {
+	font-family: sans-serif;
+	color: rgb(147, 82, 189);
+	width: 500px;
+	background: white;
+	border-radius: 10px;
+	margin: auto auto;
+	text-align: center;
+	padding: 20px 0px 20px 0px;
+}
